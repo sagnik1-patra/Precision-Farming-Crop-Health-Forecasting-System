@@ -1,0 +1,13 @@
+{
+    "Model": "Hybrid AIS+GA",
+    "Features_Used": [
+        "Area Code",
+        "Element Code",
+        "Item Code",
+        "Year Code",
+        "Value_x",
+        "Value_y"
+    ],
+    "Records": 56717,
+    "Output_CSV": "hybrid_precision_results.csv"
+}
