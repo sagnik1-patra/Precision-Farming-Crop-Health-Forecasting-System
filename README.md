@@ -1,4 +1,4 @@
-🌾 Hybrid Precision Farming & Crop Health Forecasting System
+🌾 Hybrid Precision Farming & Crop Health Forecasting System.
 📘 Overview
 
 The Hybrid Precision Farming & Crop Health Forecasting System is an intelligent machine learning solution designed to predict crop yield performance based on multi-source agricultural data — including rainfall, temperature, and pesticide usage.
